@@ -1,3 +1,5 @@
-Hello! Initial README.
+1) Hello! Initial README.
 
-This is the initial readme.  HOLY COW is this cool!  These are all changes to the README file. 
+2) This is the initial readme.  HOLY COW is this cool!  
+
+3) These are all changes to the README file with a third round of changes. 
